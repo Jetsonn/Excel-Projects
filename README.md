@@ -1,2 +1,5 @@
-# Excel-Projects
-Collection of Excel projects showcasing my proficiency in data analysis, visualization, modeling, formatting etc. From pivot tables, pivot charts to complex formulas, these projects demonstrate my expertise in leveraging Excel for insightful decision-making and problem-solving.
+# Project Brief
+In this project I cleaned, prepared and organized data to gain insights from the data set consisting of the revenue of individuals with different countries, genders and age groups
+
+## Tools and Functions
+I used different tools and functions in excel in this project such as pivot tables and charts, sumifs function, text to date function etc.
